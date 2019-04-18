@@ -1,0 +1,47 @@
+body {
+    
+    background-image: url(../images/button-background.jpg);
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive; 
+}
+
+
+#images {
+    align-items: left;
+}
+
+p {
+    padding: 5px;
+}
+
+#favorites-div {
+    background-image: url(../images/background.jpg);
+    float: left;
+}
+
+
+div {
+    margin: 5px;
+    padding: 10px;
+}
+
+
+
+button  {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 15%
+}
+
+#add-animal, .delete {
+    padding: 5px;
+    border-radius: 5%;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+
+form {
+    margin: 50px;
+}
